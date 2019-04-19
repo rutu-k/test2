@@ -1,4 +1,4 @@
 {
     "Files":["HelloWorld.jar"],
-    "Args":["java -jar HelloWorld.jar"]
+    "Args":["-jar HelloWorld.jar"]
 }
